@@ -35,7 +35,8 @@ webview 的扩展类
 baseUI 的相关module,提供baseFragment,activity，常用的dialog，view等等。
 因为有些情况下的module 是没有UI相关的，所以把他和common 区分开
 
-
+## 项目目录
+我们期望项目目录和module 存放于不同的目录下。比如 基础库就放到基础库的module中。
 
 
 ## 技术方面选型
