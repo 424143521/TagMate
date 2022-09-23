@@ -7,6 +7,8 @@
 主要是统计时间段，比如2022年9月23日 09:01:04，则会统计到9点。
 ### 好的方面(无咎)
 ### 不好的方面 (咎)
+
+
 ## 技术方面选型
 ### android
 android x
@@ -20,5 +22,10 @@ nativegation
 
 ### 路由跳转
 [Drouter](https://github.com/didi/DRouter)
-###
+### 界面分层
+LoadSir
+### 骨架屏
+### 刷新
+### adapter
+### 
 ## 更新

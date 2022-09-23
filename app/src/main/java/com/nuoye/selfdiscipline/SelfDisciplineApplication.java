@@ -1,13 +1,13 @@
 package com.nuoye.selfdiscipline;
 
-import android.app.Application;
+import androidx.multidex.MultiDexApplication;
 
 import com.didi.drouter.api.DRouter;
 
 /**
  * @author yangfan6
  */
-public class SelfDisciplineApplication extends Application {
+public class SelfDisciplineApplication extends MultiDexApplication {
     @Override
     public void onCreate() {
         super.onCreate();
